@@ -2,7 +2,7 @@
 I'm a mathematics enthusiast who likes to build things.  
 I'm also eager to begin a career in tech.  
 I like data science and statistics. If you're a data-sci learner and need some help with understanding the math in these areas, I can help!  
-Reach out to my on Twitter [@kweatherwalks](https://twitter.com/kweatherwalks)  
+Reach out to me on Twitter [@kweatherwalks](https://twitter.com/kweatherwalks)  
 I'm always learning and want to help others learn more too.
 
 
