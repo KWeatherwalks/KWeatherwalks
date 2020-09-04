@@ -10,6 +10,8 @@ I'm always learning and want to help others learn more too.
 I want to build
 - an android app that tracks and guides my home exercise routine (100pushups, 200situps, 200squats challenges)
 
+###
+I like solving math and coding problems on Project Euler ![Project Euler](https://projecteuler.net/profile/KWeatherwalks.png)
 <!--
 **KWeatherwalks/KWeatherwalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
