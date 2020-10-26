@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin 
-I'm a mathematics enthusiast who likes to build things.  Currently enrolled in Lambda School's DS22 data science cohort.
-I'm also eager to begin a career in tech.  
+I'm a mathematics enthusiast who likes to build things.  Currently enrolled in Lambda School's DS22 data science cohort.  
+Eager to begin a career using tech for good.  
 I like data science and statistics. If you're a data-sci learner and need some help with understanding the math in these areas, I can help!  
 Reach out to me on Twitter [@kweatherwalks](https://twitter.com/kweatherwalks)  
 I'm always learning and I want to help others learn more too.
