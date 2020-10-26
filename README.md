@@ -7,7 +7,7 @@ I'm always learning and I want to help others learn more too.
 
 ### Problem Solving
 I like solving math and coding problems on Project Euler and Hacker Rank  
-![Project Euler](https://projecteuler.net/profile/KWeatherwalks.png)  
+<img src="https://projecteuler.net/profile/KWeatherwalks.png" height=50px>  
 Visit my Hacker Rank profile here:
 https://www.hackerrank.com/kevin_weatherwal
 
