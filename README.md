@@ -1,4 +1,4 @@
-# 👋 Hello,💻📊
+# 👋 Hello  💻📊
 Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to difficult problems. I'm eager to begin a career using tech for good.  
 
 - I use `pandas` to explore, wrangle, and analyze data.
