@@ -1,15 +1,24 @@
-# 👋 Hi, I'm Kevin 
-I'm a mathematics enthusiast who likes to build things.  Currently enrolled in Lambda School's DS22 data science cohort.  
-Eager to begin a career using tech for good.  
-I like data science and statistics. If you're a data-sci learner and need some help with understanding the math in these areas, I can help!  
-Reach out to me on Twitter [@kweatherwalks](https://twitter.com/kweatherwalks)  
-I'm always learning and I want to help others learn more too.
+# 👋 Hello,💻📊
+Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to difficult problems. I'm eager to begin a career using tech for good.  
 
-### Problem Solving
-I like solving math and coding problems on Project Euler and Hacker Rank  
-<img src="https://projecteuler.net/profile/KWeatherwalks.png" height=50px>  
-Visit my Hacker Rank profile here:
-https://www.hackerrank.com/kevin_weatherwal
+- I use `pandas` to explore, wrangle, and analyze data.
+- I use `sklearn` to engineer, optimize, and execute machine learning models.
+- I use `matplotlib` to create easily interpretable visualizations.
+
+
+### Problem Solving Communities
+I like solving math and coding problems.
+- Project Euler <img src="https://projecteuler.net/profile/KWeatherwalks.png" height=40px>   
+- [Hacker Rank](https://www.hackerrank.com/kevin_weatherwal)
+
+### Math help
+I like to help people learn data science topics. If you're a data-sci learner and need some help with understanding the math in these areas, I can help!    
+I'm always learning and I want to help others learn as well.
+
+## Contact Me
+Reach me on
+**Twitter** [@kweatherwalks](https://twitter.com/kweatherwalks)  
+**LinkedIn** [LI](https://www.linkedin.com/in/kevin-weatherwalks/)
 
 <!--
 **KWeatherwalks/KWeatherwalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
