@@ -8,7 +8,7 @@ Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to d
 
 ### Problem Solving Communities
 I like solving math and coding problems.
-- Project Euler <img src="https://projecteuler.net/profile/KWeatherwalks.png" height=40px>   
+- <img src="https://projecteuler.net/profile/KWeatherwalks.png" height=40px>   
 - [Hacker Rank](https://www.hackerrank.com/kevin_weatherwal)
 
 ### Math help
@@ -16,7 +16,7 @@ I like to help people learn data science topics. If you're a data-sci learner an
 I'm always learning and I want to help others learn as well.
 
 ## Contact Me
-Reach me on
+Reach me on  
 **Twitter** [@kweatherwalks](https://twitter.com/kweatherwalks)  
 **LinkedIn** [LI](https://www.linkedin.com/in/kevin-weatherwalks/)
 
