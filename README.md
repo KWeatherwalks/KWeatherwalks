@@ -18,7 +18,7 @@ I'm always learning and I want to help others learn as well.
 ## Contact Me
 Reach me on  
 **Twitter** [@kweatherwalks](https://twitter.com/kweatherwalks)  
-**LinkedIn** [LI](https://www.linkedin.com/in/kevin-weatherwalks/)
+**LinkedIn** [kevin-weatherwalks](https://www.linkedin.com/in/kevin-weatherwalks/)
 
 <!--
 **KWeatherwalks/KWeatherwalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
