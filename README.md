@@ -12,7 +12,7 @@ Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to d
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-### Problem Solving Communities
+### 👨🏻‍💻 Problem Solving Communities
 I like solving math and coding problems.
 - <img src="https://projecteuler.net/profile/KWeatherwalks.png" height=30px>   
 - [Hacker Rank](https://www.hackerrank.com/kevin_weatherwal)
