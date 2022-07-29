@@ -6,6 +6,7 @@ Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to d
 - I use `matplotlib` to create easily interpretable visualizations.
 
 ![Azure Fundamentals](https://user-images.githubusercontent.com/7192837/166964166-3356da75-26d4-4944-8417-3dbd22728db7.png)
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
