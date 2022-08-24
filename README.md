@@ -1,11 +1,10 @@
 # 👋 Hello  💻📊
-Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to difficult problems. I'm eager to begin a career using tech for good.  
+Hi, I'm Kevin! I'm an early-career data scientist with a passion for applying mathematics to difficult problems. Progressing in my career using tech for good.
+Currently working as a data engineer, learning all about cloud computing technologies and how to build robust data pipelines.
 
-- I use `pandas` to explore, wrangle, and analyze data.
-- I use `sklearn` to engineer, optimize, and execute machine learning models.
-- I use `matplotlib` to create easily interpretable visualizations.
+<img alt="Azure Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186530516-3ebb5aea-6468-49d4-b9a8-584be5caf5af.png" width="100" height="100"> <img alt="Azure Data Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186531151-f816c162-fb9d-4b77-a73b-534e06a41f75.png" width="100" height="100">  
+[Credly Badges](https://www.credly.com/users/kevin-weatherwalks)
 
-![Azure Fundamentals](https://user-images.githubusercontent.com/7192837/166964166-3356da75-26d4-4944-8417-3dbd22728db7.png)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -18,10 +17,6 @@ Hi, I'm Kevin! I'm a data scientist with a passion for applying mathematics to d
 I like solving math and coding problems.
 - <img src="https://projecteuler.net/profile/KWeatherwalks.png" height=30px>   
 - [Hacker Rank](https://www.hackerrank.com/kevin_weatherwal)
-
-## 👨🏻‍🏫 Math help
-I like to help people learn data science topics. If you're a data-sci learner and need some help with understanding the math in these areas, I can help!    
-I'm always learning and I want to help others learn as well.
 
 ## 📳 Contact Me
 
