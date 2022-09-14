@@ -2,9 +2,11 @@
 Hi, I'm Kevin! I'm an early-career data scientist with a passion for applying mathematics to difficult problems. Progressing in my career using tech for good.
 Currently working as a data engineer, learning all about cloud computing technologies and how to build robust data pipelines.
 
-<img alt="Azure Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186530516-3ebb5aea-6468-49d4-b9a8-584be5caf5af.png" width="100" height="100"> <img alt="Azure Data Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186531151-f816c162-fb9d-4b77-a73b-534e06a41f75.png" width="100" height="100">  
-[Credly Badges](https://www.credly.com/users/kevin-weatherwalks)
+<img alt="Azure Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186530516-3ebb5aea-6468-49d4-b9a8-584be5caf5af.png" height="100"> <img alt="Azure Data Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186531151-f816c162-fb9d-4b77-a73b-534e06a41f75.png" height="100"> 
 
+<img alt="Databricks Lakehouse Fundamentals" src="https://user-images.githubusercontent.com/7192837/190263433-f339eaf2-2115-45b0-a431-c31687464141.png" width="120">
+
+[Credly Badges](https://www.credly.com/users/kevin-weatherwalks) | [Accredible Badges](https://www.credential.net/profile/kweatherwalks/wallet)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
