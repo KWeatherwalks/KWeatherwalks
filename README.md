@@ -1,14 +1,19 @@
 <div align="center">  
   
-## 👋 About Me  💻📊
-Hi, I'm Kevin! I'm an early-career data professional working on becoming an expert data engineer.  
-Progressing in my career using tech for good.  
-Currently learning all about cloud data platforms and how to build robust pipelines.
 
-<img alt="Azure Data Engineer Associate Badge" src="https://user-images.githubusercontent.com/7192837/208183308-555ec73a-09ce-489a-85a2-6924248a3762.png" height="100"><img alt="Azure Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186530516-3ebb5aea-6468-49d4-b9a8-584be5caf5af.png" height="100"> <img alt="Azure Data Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186531151-f816c162-fb9d-4b77-a73b-534e06a41f75.png" height="100"> 
+  ## 👋 About Me  💻📊
+  
+  Hi, I'm Kevin! I'm an early-career data professional working on becoming an expert data engineer.  
+  Progressing in my career using tech for good.  
+  Currently learning all about cloud data platforms and how to build robust pipelines.
 
-<img alt="Databricks Lakehouse Fundamentals" src="https://user-images.githubusercontent.com/7192837/190263433-f339eaf2-2115-45b0-a431-c31687464141.png" width="120">
-
+  
+  <img alt="Databricks Data Engineer Associate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72609652" height="150">  
+  <img alt="Databricks Lakehouse Fundamentals" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58331532" height="150">  
+  <img alt="Azure Data Engineer Associate Badge" src="https://user-images.githubusercontent.com/7192837/208183308-555ec73a-09ce-489a-85a2-6924248a3762.png" height="140" href="https://www.credly.com/badges/8d771a61-8220-4383-be70-11413489c67f">   
+  <img alt="Azure Data Fundamentals Badge" src="https://user-images.githubusercontent.com/7192837/186531151-f816c162-fb9d-4b77-a73b-534e06a41f75.png" height="140" href="https://www.credly.com/badges/31b00523-6f21-4e6a-8623-dd623a8981df">  
+  
+  
 [Credly Badges](https://www.credly.com/users/kevin-weatherwalks) | [Accredible Badges](https://www.credential.net/profile/kweatherwalks/wallet)
 
 ![Python](https://img.shields.io/badge/Python-333333?logo=python)  
